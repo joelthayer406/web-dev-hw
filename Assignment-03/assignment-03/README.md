@@ -5,3 +5,5 @@ Web Browsers use web language like HTML, CSS and JAVA Script that is then used b
 What is a markup language? Describe one commonly used in development.
 
 Markup Language is used as a way to process, define and present text on a webpage.
+
+Having trouble with embeding the image. Followed the instructions and am still not getting the right results.
