@@ -1,0 +1,13 @@
+How does data travel on the internet?
+Data travels on the internet through packets which are used to keep files from being to large.
+
+What is the relationship between an IP address and the DNS?
+An IP address is assigned to specific computers while DNS is used to convert alphabetic references into a server's IP address.
+
+What is a cookie?
+Cookies are used to track your website activity to gather information. Cookies are used in online shopping to put items you might like in front of you more often.
+
+List the the three basic parts of a URL.
+A Scheme
+A Host
+A Path 
