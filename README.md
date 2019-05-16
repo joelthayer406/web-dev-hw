@@ -1,9 +1,2 @@
 # Joel Thayer' web-dev-hw
-responses.txt
-The Internet is a collection of networks that can be used while the Web is a collection of information that is used on the internet.
-The internet is a wired buried in the ground. When two computers are both connected to a wire they can communicate. However most computers or clients are connected to the Internet through an ISP.
-A Directory is where your files are managed and stored at. Our file Assignment-01 is stored in the directory web-dev-hw.
-VCS is valuable because it is much easier to save, manage and mantain your files. You can also collaborate with others on a VCS.
-
-this repository is for web design homework.
-My name is Joel Thayer and I am a media arts student. I am new to coding and worried that I have already messed up. 
+Repository for my Intro Web Dev Homework.
