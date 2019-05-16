@@ -1,3 +1,4 @@
+# Joel Thayer' web-dev-hw
 responses.txt
 The Internet is a collection of networks that can be used while the Web is a collection of information that is used on the internet.
 The internet is a wired buried in the ground. When two computers are both connected to a wire they can communicate. However most computers or clients are connected to the Internet through an ISP.
