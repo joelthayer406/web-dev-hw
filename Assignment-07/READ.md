@@ -1,0 +1,1 @@
+So far really have struggled with assignment and divs in general. Everything I try isnt working and I do not know where I am going wrong. I miss the walkthroughs for assignments because then I at least felt like I had a chance to follow along with what is happening but for now I just feel lost.
