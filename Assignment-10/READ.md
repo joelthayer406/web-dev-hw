@@ -9,4 +9,7 @@ What is the importance of having fallback fonts or a font stack?
 Fallback fonts give you the option to run different fonts in case a specific font is not available. It gives you a second or third choice just in case.
 
 Free Response: Summarize your work cycle for this assignment.
-Another tough time but I was finally able to change fonts which I have been trying to do in the past but was unable to figure it out so i will look at that as a win. This is tough. But I am definitely trying. 
+Another tough time but I was finally able to change fonts which I have been trying to do in the past but was unable to figure it out so i will look at that as a win. This is tough. But I am definitely trying.
+
+
+Update: getting there. 

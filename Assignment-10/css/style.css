@@ -3,7 +3,7 @@ body {
   background-color: rgb(43, 14, 38);
   color: white;
   padding: 7px;
-  font-family: 'Roboto Mono', monospace;
+  font-family:'Roboto Mono', monospace;
 }
 
 /* Paragraph Content */
@@ -11,6 +11,13 @@ body {
   backround color: #FFFFFF
   color: rgb(43, 14, 38);
   padding: 7px;
+  }
+
+  p:first-of-type::first-letter {
+    font-family:'Swanky and Moo Moo', cursive;
+    font-size: 3em;
+    font-weight: 600l
+    color: rgb(44,44,44)
   }
 
 
