@@ -9,14 +9,36 @@ menu {
 
 /*top-level links: */
 #site-links {
+  margin: 0;
+  padding: 0;
 
+  display: inline-block;
 }
+
 #site-links .menu-item {
   width: 6em;
   padding: .5em;
+  display: inline-block;
+
   background-color: black;
 
   text-align: center;
   color: lightblue;
+}
 
+#site-links .menu-item:hover {
+    background-color: lightblue
+    color: tan;
+    text-decoration: underline overline;
+    text-decoration-color: Navy;
+}
+
+
+
+
+
+/* DROPDOWN */
+#site-links .dropdown {
+
+  
 }
