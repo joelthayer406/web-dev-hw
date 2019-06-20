@@ -10,7 +10,7 @@ h1, span {
   font-family: 'Open Sans', sans-serif;
   color: darkblue;
   text-align: center;
-  font-size: 15px;
+  font-size: 20px;
 }
 
 h2, span {
@@ -23,7 +23,7 @@ h2, span {
 
 .main-container {
   width: 70%;
-  max-width: 700px;
+  max-width: 7px;
   margin: 4em auto;
   padding: 2em;
 }
