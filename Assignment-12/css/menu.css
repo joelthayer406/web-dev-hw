@@ -35,8 +35,8 @@ menu {
 
 /* DROPDOWN */
 #site-links .dropdown {
-    display: inline-flex;
-    width: 4em;
+    display: inline-block;
+    width: 6em;
 }
 
 #site-links .dropdown-content {
@@ -62,8 +62,8 @@ menu {
 }
 
 #social-links img {
-  width: 25px;
-  height: 25px;
+  width: 10px;
+  height: 10px;
   opacity: 80%
 }
 
