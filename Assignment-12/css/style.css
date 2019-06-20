@@ -11,3 +11,19 @@ h1, span {
   color: darkblue;
   text-align: center;
 }
+/* LAYOUT AREAS */
+
+.main-container {
+  width: 70%;
+  max-width: 700px;
+  margin: 4em auto;
+  padding: 2em;
+}
+  main {
+    text-align: center;
+    margin: 2em;
+  }
+
+  footer {
+    text-align: center;
+  }
