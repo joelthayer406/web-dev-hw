@@ -1,0 +1,13 @@
+
+body {
+  background-color: lightblue;
+  bacround-image: url('../images/montana,png');
+  background-repeat: no-repeat;
+background-attachment: fixed;
+}
+h1, span {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  color: darkblue;
+  text-align: center;
+}

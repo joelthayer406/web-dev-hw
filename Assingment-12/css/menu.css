@@ -1,0 +1,22 @@
+CSS for Navagation menu
+
+/* MENU BAR (Container): */
+menu {
+  margin: 0;
+  padding: 0;
+  background-color: navy;
+}
+
+/*top-level links: */
+#site-links {
+
+}
+#site-links .menu-item {
+  width: 6em;
+  padding: .5em;
+  background-color: black;
+
+  text-align: center;
+  color: lightblue;
+
+}
