@@ -1,11 +1,11 @@
 
 body {
-  background-color lightgrey;
+  background-color darkblue;
 }
 h1, span {
   margin: 0;
   font-family: 'Open Sans', sans-serif;
-  color: darkblue;
+  color: lightblue;
   text-align: center;
   font-size: 25px;
 }
@@ -13,7 +13,7 @@ h1, span {
 h2, span {
   margin: 0;
   font-family: 'Open Sans', sans-serif;
-  color: navy;
+  color: lightblue;
   text-align: center;
   font-size: 12;
 }
@@ -42,21 +42,6 @@ h2, span {
     width: 100%;
   }
 
-  /* Responsive layout - makes a two column-layout instead of four columns */
-  @media screen and (max-width: 800px) {
-    .column {
-      flex: 50%;
-      max-width: 50%;
-    }
-  }
-
-  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-  @media screen and (max-width: 600px) {
-    .column {
-      flex: 100%;
-      max-width: 100%;
-    }
-  }
   main {
     text-align: center;
     margin: 2em;
@@ -119,4 +104,43 @@ h2, span {
       width: 100%;
       margin-top: 0;
     }
+  }
+  .container {
+    position: relative;
+    width: 50%;
+  }
+
+  .image {
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+  }
+
+  .middle {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+  .container:hover .image {
+    opacity: 0.3;
+  }
+
+  .container:hover .middle {
+    opacity: 1;
+  }
+
+  .text {
+    background-color: #4CAF50;
+    color: white;
+    font-size: 16px;
+    padding: 16px 32px;
   }
