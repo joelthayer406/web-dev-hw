@@ -10,8 +10,16 @@ h1, span {
   font-family: 'Open Sans', sans-serif;
   color: darkblue;
   text-align: center;
+  font-size: 15px;
 }
-/* LAYOUT AREAS */
+
+h2, span {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  color: navy;
+  text-align: center;
+  font-size: 12;
+}
 
 .main-container {
   width: 70%;
