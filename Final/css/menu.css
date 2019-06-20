@@ -1,0 +1,72 @@
+CSS for Navagation menu
+
+/* MENU BAR (Container): */
+menu {
+  margin: 0;
+  padding: 0;
+  background-color: navy;
+}
+
+/*top-level links: */
+#site-links {
+  margin: 0;
+  padding: 0;
+
+  display: inline-block;
+}
+
+#site-links .menu-item {
+  width: 6em;
+  padding: .5em;
+  display: inline-block;
+
+  background-color: black;
+
+  text-align: center;
+  color: lightblue;
+}
+
+#site-links .menu-item:hover {
+    background-color: lightblue
+    color: tan;
+    text-decoration: underline overline;
+    text-decoration-color: Navy;
+}
+
+/* DROPDOWN */
+#site-links .dropdown {
+    display: inline-block;
+    width: 6em;
+}
+
+#site-links .dropdown-content {
+  display: none;
+  position: absolute;
+
+  background color: navy;
+  z-index 5;
+  }
+#site-links .dropdown-content a:hover {
+  display: block;
+}
+
+/* Social media */
+
+#social-links {
+  padding: .5em;
+  display: .block;
+  float: none;
+}
+#social-links .social-item {
+  margin: 0px 2px
+}
+
+#social-links img {
+  width: 10px;
+  height: 10px;
+  opacity: 80%
+}
+
+#social-links img:hover {
+  opacity: 100%;
+}
