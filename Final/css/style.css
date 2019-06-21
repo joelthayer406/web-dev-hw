@@ -1,6 +1,6 @@
 
 body {
-  background-color darkblue;
+  background-color lightblue;
 }
 h1, span {
   margin: 0;
@@ -63,5 +63,5 @@ p {
 
   .contact {
     font-size: 12px;
-    
+
   }
