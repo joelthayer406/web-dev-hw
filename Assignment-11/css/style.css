@@ -1,4 +1,8 @@
 
+body {
+  background: white;
+  padding: 140px;
+
 #black {
   position:absolute;
   z-index: auto;
