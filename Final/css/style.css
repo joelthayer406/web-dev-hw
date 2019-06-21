@@ -22,6 +22,9 @@ ul {
   margin: 0;
   padding: 0;
 }
+p {
+  word-spacing: 30px;
+}
 .main-container {
   width: 70%;
   max-width: 7px;
