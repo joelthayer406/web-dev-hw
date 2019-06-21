@@ -5,12 +5,12 @@
 #white {
   position: absolute;
   z-index: 1;
-  left: 125px;
-  top: 125px;
+  left: 0px;
+  top: 0px;
 }
 #colors {
   position: absolute;
   z-index: 2;
-  left: 125px;
-  top: 125px;
+  left: 0px;
+  top: 0px;
 }
