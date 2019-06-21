@@ -1,63 +1,16 @@
-
-.canvas{
-   width: 530;
-   height: 610;
-   padding: 15px;
-   position: absolute;
-   background-color: black;
+#black {
+  position:absolute;
+  z-index: auto;
 }
-   .block-1{
-      margin-left: 15px 90px
-      width: 110;
-      height: 164;
-      border: 10px black;
-      position: absolute;
-      background-color: blue;
-   }
-
-
-.block-2{
-   width: 110;
-   height: 250;
-   border: 10px black;
-   background-color: white;
+#white {
+  position: absolute;
+  z-index: 1;
+  left: 125px;
+  top: 125px;
 }
-
-
-.block-3{
-   width: 110;
-   height: 125;
-   border: 10px black;
-   background-color: white;
+#colors {
+  position: absolute;
+  z-index: 2;
+  left: 125px;
+  top: 125px;
 }
-
-
-.block-4{
-   width: 290;
-   height: 165;
-   border: 10px black;
-   background-color: white;
-}
-
-.block-5{
-   width: 70;
-   height: 80;
-   border: 10px black;
-   background-color: yellow;
- }
-
-.block-6{
-    width: 70;
-    height: 70;
-    border: 10px black;
-    background-color: white;
-  }
-
-
-.block-7{
-    margin-right:15px 100px;
-    width: 375;
-    height: 400;
-    border: 10px black;
-    background-color: red;
-    }
