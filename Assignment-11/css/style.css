@@ -1,18 +1,19 @@
 #black {
   position:absolute;
   z-index: auto;
+  top: 150px;
 }
 #white {
   position: absolute;
   z-index: 1;
   left: 0px;
-  top: 0px;
+  top: 150px;
 }
 #colors {
   position: absolute;
   z-index: 2;
   left: 0px;
-  top: 0px;
+  top: 150px;
 }
 .img-with-text {
     text-align: justify;
