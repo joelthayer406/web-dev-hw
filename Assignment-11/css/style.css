@@ -6,19 +6,19 @@ body {
 #black {
   position:absolute;
   z-index: auto;
-  top: 150px;
+  top: 250px;
 }
 #white {
   position: absolute;
   z-index: 1;
   left: 0px;
-  top: 150px;
+  top: 250px;
 }
 #colors {
   position: absolute;
   z-index: 2;
   left: 0px;
-  top: 150px;
+  top: 250px;
 }
 .img-with-text {
     text-align: justify;
