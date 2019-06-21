@@ -1,22 +1,18 @@
 
-body {
-  background: white;
-  padding: 140px;
-
 #black {
   position:absolute;
   z-index: auto;
-  top: 0px;
+  top: 25px;
 }
 #white {
   position: absolute;
   z-index: 1;
   left: 0px;
-  top: 0px;
+  top: 25px;
 }
 #colors {
   position: absolute;
   z-index: 2;
   left: 0px;
-  top: 0px;
+  top: 25px;
 }
